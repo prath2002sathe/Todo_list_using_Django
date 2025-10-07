@@ -7,7 +7,7 @@ body {
 .signup-login {
 
     background-color: #0f1f37;
-    width: 100%;
+    width: 400px;
     height: 1080px;
     overflow: hidden;
     font-size: 24px;
@@ -23,7 +23,7 @@ body {
 
 .signup-box {
     background-color: #ffffff30;
-    height: 500px;
+    height: 650px;
     width: 520px;
     border-radius: 25px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
@@ -121,7 +121,7 @@ b {
 
 .signup-box1 {
     background-color: #ffffff30;
-    height: 444px;
+    height: 555px;
     width: 520px;
     border-radius: 25px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
