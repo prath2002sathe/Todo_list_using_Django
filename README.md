@@ -9,10 +9,10 @@ This project is a multi-user todo application built using Django. It allows user
  - Filter tasks based on status, priority, etc.
 
 # Installation
- - Clone the repository: git clone https://github.com/Ayushsav/Todo_app_using_django.git
+ - Clone the repository: git clone https://github.com/prath2002sathe/Todo_list_using_Django.git
  - Navigate to the project directory: cd todo
  - Install dependencies: pip install django
- - Set up the database: python manage.py makemigrationsand python manage.py migrate
+ - Set up the database: python manage.py makemigrations and python manage.py migrate
  - Create a superuser for admin access: python manage.py createsuperuser
  - Start the development server: python manage.py runserver
 
